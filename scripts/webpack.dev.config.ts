@@ -26,7 +26,7 @@ export default devStrategy(
         module: {
             rules: [
                 {
-                    test: /\.scss/,
+                    test: /\.scss$/,
                     use: [
                         'style-loader',
                         'css-loader',
