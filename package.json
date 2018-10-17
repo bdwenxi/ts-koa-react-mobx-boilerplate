@@ -1,5 +1,5 @@
 {
-    "name": "drag-sort-demo",
+    "name": "ts-koa-react-mobx-boilerplate",
     "version": "0.0.1",
     "description": "",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "ssh://git@icode.baidu.com:8235/baidu/unit/drag-sort-demo"
+        "url": "git@github.com:simmons8616/ts-koa-react-mobx-boilerplate.git"
     },
     "author": "zhangwenxi",
     "license": "MIT",

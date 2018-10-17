@@ -3,7 +3,7 @@
  * @author zhangwenxi(zhangwenxi@baidu.com)
  */
 
-import {types, flow, Instance} from 'mobx-state-tree';
+import {types, flow, cast, Instance} from 'mobx-state-tree';
 import {DropResult} from 'react-beautiful-dnd';
 
 import {getSkillsApi} from '../api';
@@ -27,12 +27,6 @@ const DragSortModel = types.model(
     self => ({
         get hasSkill() {
             return self.skills.length > 0;
-        }
-    })
-).actions(
-    self => ({
-        setSkills(skills: any) {
-            self.skills = skills;
         }
     })
 ).actions(
@@ -69,7 +63,7 @@ const DragSortModel = types.model(
             const [removed] = skills.splice(startIndex, 1);
             skills.splice(endIndex, 0, removed);
 
-            self.setSkills(skills);
+            self.skills = cast(skills);
         }
     })
 );
