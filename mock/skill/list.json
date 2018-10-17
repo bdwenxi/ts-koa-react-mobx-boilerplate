@@ -1,0 +1,55 @@
+{
+    "errno": 0,
+    "result": [
+        {
+            "skillId": "1001",
+            "skillName": "UNIT技能1",
+            "priority": 1
+        },
+        {
+            "skillId": "1002",
+            "skillName": "UNIT技能2",
+            "priority": 2
+        },
+        {
+            "skillId": "1003",
+            "skillName": "UNIT技能3",
+            "priority": 3
+        },
+        {
+            "skillId": "1004",
+            "skillName": "UNIT技能4",
+            "priority": 4
+        },
+        {
+            "skillId": "1005",
+            "skillName": "UNIT技能5",
+            "priority": 5
+        },
+        {
+            "skillId": "1006",
+            "skillName": "UNIT技能6",
+            "priority": 6
+        },
+        {
+            "skillId": "1007",
+            "skillName": "UNIT技能7",
+            "priority": 7
+        },
+        {
+            "skillId": "1008",
+            "skillName": "UNIT技能8",
+            "priority": 8
+        },
+        {
+            "skillId": "1009",
+            "skillName": "UNIT技能9",
+            "priority": 9
+        },
+        {
+            "skillId": "10010",
+            "skillName": "UNIT技能10",
+            "priority": 10
+        }
+    ]
+}
