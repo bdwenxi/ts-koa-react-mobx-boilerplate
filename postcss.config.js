@@ -1,6 +1,6 @@
 /**
  * @file postcss配置
- * @author Franck chen(chenfan02@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 const autoprefixer = require('autoprefixer');

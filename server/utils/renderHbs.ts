@@ -1,6 +1,6 @@
 /**
  * @file 渲染handlebars模板工具文件
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import {IRouterContext} from 'koa-router';

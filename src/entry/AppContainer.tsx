@@ -1,6 +1,6 @@
 /**
  * @file 拖拽排序demo主入口文件
- * @author zhangwenxi@baidu.com
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import React from 'react';

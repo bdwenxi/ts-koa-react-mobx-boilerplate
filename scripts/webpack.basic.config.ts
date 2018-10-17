@@ -1,6 +1,6 @@
 /**
  * @file webpack基础配置
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import {Configuration} from 'webpack';

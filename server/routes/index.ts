@@ -1,6 +1,6 @@
 /**
  * @file 本地server路由文件
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import Router from 'koa-router';

@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git@github.com:simmons8616/ts-koa-react-mobx-boilerplate.git"
     },
-    "author": "zhangwenxi",
+    "author": "simmons8616",
     "license": "MIT",
     "dependencies": {
         "autoprefixer": "^9.2.0",

@@ -1,8 +1,9 @@
 /**
  * @file webpack开发环境配置
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
+import {Configuration} from 'webpack';
 import webpackMerge from 'webpack-merge';
 import basicConfig from './webpack.basic.config';
 
@@ -47,4 +48,4 @@ export default devStrategy(
             ]
         }
     }
-);
+) as Configuration;

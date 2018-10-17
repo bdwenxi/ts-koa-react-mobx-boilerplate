@@ -1,6 +1,6 @@
 /**
  * @file 本地server启动文件
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import Koa, {Middleware, Context} from 'koa';

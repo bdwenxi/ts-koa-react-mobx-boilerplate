@@ -1,6 +1,6 @@
 /**
  * @file 基础工具类文件
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import path from 'path';

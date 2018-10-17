@@ -1,6 +1,6 @@
 /**
  * @file 静态常量url文件
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 const URL_PREFIX = '/unit/v2';

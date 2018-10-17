@@ -1,6 +1,6 @@
 /**
  * @file 本地服务启动脚本
- * @author zhangwenxi(zhangwenxi@baidu.com)
+ * @author simmons8616(simmons0616@gmail.com)
  */
 
 import inquirer, {Answers} from 'inquirer';
